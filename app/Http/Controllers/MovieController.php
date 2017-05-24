@@ -16,7 +16,7 @@ class MovieController extends Controller
 
 
 public  function index(){
-return "hello MovieController";
+return "hello MovieControllerrrrrrrrrrrrr";
 }
 
 
