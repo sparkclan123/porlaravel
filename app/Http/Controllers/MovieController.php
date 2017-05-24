@@ -23,7 +23,7 @@ return "hello MovieController";
 public function band()
 {
 $this->data = array(
-'tor' => 'Por',
+'tor' => 'Poooooooooooooooooor',
 'movie' => 'black'
 
 );
